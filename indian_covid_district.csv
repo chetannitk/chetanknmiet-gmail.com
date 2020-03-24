@@ -1,0 +1,101 @@
+State,No of Districts Affected,Name of District,No of Cases,location_text,Lat,Long
+Andhra Pradesh,5,East Godavari,2,"East Godavari, Andhra Pradesh",16.94374,82.23506
+Andhra Pradesh,5,Krishna,1,"Krishna, Andhra Pradesh",16.31043,81.16987
+Andhra Pradesh,5,Nellore,1,"Nellore, Andhra Pradesh",14.44606,79.98622
+Andhra Pradesh,5,Prakasam,1,"Prakasam, Andhra Pradesh",15.63227,79.64718
+Andhra Pradesh,5,Vizag,2,"Vizag, Andhra Pradesh",15.57429,80.12893
+BIHAR,2,MUNGER,1,"MUNGER, BIHAR",25.21616,86.52812
+BIHAR,2,PATNA,1,"PATNA, BIHAR",25.60524,85.14085
+Chandigarh,1,Chandigarh,6,"Chandigarh, Chandigarh",30.72604,76.77768
+Chhattisgarh,1,Raipur,1,"Raipur, Chhattisgarh",21.20789,81.62618
+Delhi,8,Central,3,"Central, Delhi",28.64231,77.21332
+Delhi,8,East Delhi,3,"East Delhi, Delhi",28.65137,77.29074
+Delhi,8,North Delhi,3,"North Delhi, Delhi",28.69510,77.21427
+Delhi,8,North East,5,"North East, Delhi",28.67108,77.31587
+Delhi,8,North West,5,"North West, Delhi",28.71188,77.11934
+Delhi,8,South Delhi,3,"South Delhi, Delhi",28.54790,77.23791
+Delhi,8,South West,3,"South West, Delhi",28.54351,77.11657
+Delhi,8,West Delhi,5,"West Delhi, Delhi",28.64212,77.11103
+Gujarat,6,Ahmedabad,13,"Ahmedabad, Gujarat",22.75039,72.30294
+Gujarat,6,Gandhinagar,4,"Gandhinagar, Gujarat",23.22259,72.66450
+Gujarat,6,Kutch,1,"Kutch, Gujarat",21.48642,69.93125
+Gujarat,6,Rajkot,1,"Rajkot, Gujarat",22.34095,70.78601
+Gujarat,6,Surat,4,"Surat, Gujarat",21.41034,73.29927
+Gujarat,6,Vadodara,6,"Vadodara, Gujarat",22.31775,73.36254
+Haryana,5,Faridabad,1,"Faridabad, Haryana",28.18325,77.34851
+Haryana,5,Gurugram,22,"Gurugram, Haryana",28.45219,77.04632
+Haryana,5,Panchkula,1,"Panchkula, Haryana",30.72663,76.96176
+Haryana,5,Sonipat,1,"Sonipat, Haryana",29.05587,76.89537
+Himachal Pradesh,1,Kangra,3,"Kangra, Himachal Pradesh",32.07961,76.25384
+J&K,2,Jammu,3,"Jammu, J&K",32.74713,74.87663
+J&K,2,Srinagar,1,"Srinagar, J&K",34.10259,74.83777
+Karnataka,8#,Bengaluru Urban,18,"Bengaluru Urban, Karnataka",12.82280,77.51061
+Karnataka,8#,Chikkaballapura,3,"Chikkaballapura, Karnataka",13.58940,77.77999
+Karnataka,8#,Dakshin Kannada,1,"Dakshin Kannada, Karnataka",12.81141,75.10080
+Karnataka,8#,Dharwad,1,"Dharwad, Karnataka",15.37259,75.13728
+Karnataka,8#,Kalaburgi,3,"Kalaburgi, Karnataka",14.54387,76.23089
+Karnataka,8#,Kodagu,1,"Kodagu, Karnataka",12.38117,75.66772
+Karnataka,8#,Mysore,1,"Mysore, Karnataka",12.31301,76.64119
+Karnataka,8#,Uttar Kannada,2,"Uttar Kannada, Karnataka",14.67264,74.47292
+Kerala,11,Alappuzha,1,"Alappuzha, Kerala",9.46214,76.28424
+Kerala,11,Ernakulam,16,"Ernakulam, Kerala",9.98710,76.34310
+Kerala,11,Idukki,1,"Idukki, Kerala",9.81390,77.00703
+Kerala,11,Kannur,13,"Kannur, Kerala",11.90930,75.46016
+Kerala,11,Kasargod,39,"Kasargod, Kerala",65.38071,26.90730
+Kerala,11,Kottayam,2,"Kottayam, Kerala",9.63726,76.60583
+Kerala,11,Kozhikode,2,"Kozhikode, Kerala",11.43062,75.72201
+Kerala,11,Mallapuram,4,"Mallapuram, Kerala",11.95000,78.21931
+Kerala,11,Pathanamthitta,10,"Pathanamthitta, Kerala",9.26553,76.78715
+Kerala,11,Thiruvanthpuram,4,"Thiruvanthpuram, Kerala",65.38071,26.90730
+Kerala,11,Thrissur,3,"Thrissur, Kerala",10.40100,76.17420
+Ladakh,2,Kargil,2,"Kargil, Ladakh",34.55682,76.16182
+Ladakh,2,Leh,11,"Leh, Ladakh",34.16500,77.58400
+Madhya Pradesh,2,Bhopal,1,"Bhopal, Madhya Pradesh",23.49790,77.39304
+Madhya Pradesh,2,Jabalpur,6,"Jabalpur, Madhya Pradesh",23.32886,80.10729
+Maharashtra,10#,Ahmednagar,2,"Ahmednagar, Maharashtra",19.15733,74.86029
+Maharashtra,10#,Aurangabad,1,"Aurangabad, Maharashtra",20.03284,75.15895
+Maharashtra,10#,Mumbai,25,"Mumbai, Maharashtra",18.95238,72.83271
+Maharashtra,10#,Mumbai Suburb,5,"Mumbai Suburb, Maharashtra",18.95238,72.83271
+Maharashtra,10#,Nagpur,4,"Nagpur, Maharashtra",21.15010,79.01270
+Maharashtra,10#,Pune,27,"Pune, Maharashtra",18.64396,73.93257
+Maharashtra,10#,Raigad,1,"Raigad, Maharashtra",18.98503,73.46749
+Maharashtra,10#,Ratnagiri,1,"Ratnagiri, Maharashtra",17.27448,73.27618
+Maharashtra,10#,Thane,4,"Thane, Maharashtra",19.23137,72.98281
+Maharashtra,10#,Yavatmal,4,"Yavatmal, Maharashtra",20.06361,78.35058
+Odisha,1,Khurda,2,"Khurda, Odisha",20.04287,85.49866
+Puducherry,1,Mahe,1,"Mahe, Puducherry",11.69556,75.53827
+Punjab,4,Amritsar,1,"Amritsar, Punjab",31.56818,74.98127
+Punjab,4,Hoshiarpur,2,"Hoshiarpur, Punjab",31.60620,75.84975
+Punjab,4,SAS Nagar,4,"SAS Nagar, Punjab",32.32650,73.78252
+Punjab,4,SBS Nagar,14,"SBS Nagar, Punjab",30.60981,76.68230
+Rajasthan,7,Bhilwara,13,"Bhilwara, Rajasthan",25.49157,74.71340
+Rajasthan,7,Jaipur,8,"Jaipur, Rajasthan",27.15609,75.74761
+Rajasthan,7,Jhunjhunu,4,"Jhunjhunu, Rajasthan",28.12560,75.39800
+Rajasthan,7,Jodhpur,3,"Jodhpur, Rajasthan",26.22928,72.99845
+Rajasthan,7,Pali,1,"Pali, Rajasthan",25.61489,73.41513
+Rajasthan,7,Pratapgarh,2,"Pratapgarh, Rajasthan",25.89510,81.94240
+Rajasthan,7,sikar,1,"sikar, Rajasthan",27.66409,75.02408
+Tamil Nadu,7,Chennai,5,"Chennai, Tamil Nadu",12.97611,80.22678
+Tamil Nadu,7,Coimbatoor,1,"Coimbatoor, Tamil Nadu",10.88184,78.65384
+Tamil Nadu,7,Erode,2,"Erode, Tamil Nadu",11.33035,77.71777
+Tamil Nadu,7,Kanchipurum,1,"Kanchipurum, Tamil Nadu",10.88184,78.65384
+Tamil Nadu,7,Madurai,1,"Madurai, Tamil Nadu",9.93743,78.09082
+Tamil Nadu,7,Tiruneveli,1,"Tiruneveli, Tamil Nadu",10.88184,78.65384
+Tamil Nadu,7,Tirupur,1,"Tirupur, Tamil Nadu",10.96430,77.59500
+Telangana,6,Bhadradri Kothagudam,2,"Bhadradri Kothagudam, Telangana",17.42677,78.45051
+Telangana,6,Hyderabad,21,"Hyderabad, Telangana",17.45859,78.37372
+Telangana,6,Medchal,3,"Medchal, Telangana",17.42677,78.45051
+Telangana,6,Ranga Reddy,4,"Ranga Reddy, Telangana",17.27578,78.10196
+Telangana,6,Warangal (U),1,"Warangal (U), Telangana",17.96156,79.58744
+Uttar Pradesh,10,Agra,8,"Agra, Uttar Pradesh",27.02317,78.09255
+Uttar Pradesh,10,GB Nagar,8,"GB Nagar, Uttar Pradesh",32.15070,77.14841
+Uttar Pradesh,10,Ghaziabad,3,"Ghaziabad, Uttar Pradesh",28.68564,77.62016
+Uttar Pradesh,10,Kanpur,1,"Kanpur, Uttar Pradesh",26.45555,80.32727
+Uttar Pradesh,10,Lakhimpur Kheri,1,"Lakhimpur Kheri, Uttar Pradesh",28.17768,80.70670
+Uttar Pradesh,10,Lucknow,8,"Lucknow, Uttar Pradesh",26.83451,80.90802
+Uttar Pradesh,10,Philibhit,1,"Philibhit, Uttar Pradesh",26.96937,80.56707
+Uttar Pradesh,10,Shamli,1,"Shamli, Uttar Pradesh",26.96937,80.56707
+Uttar Pradesh,10,Varanasi,1,"Varanasi, Uttar Pradesh",25.38029,82.93882
+Uttarakhand,1,Dehradun,3,"Dehradun, Uttarakhand",30.46371,77.91558
+West Bengal,2#,Kolkata,5,"Kolkata, West Bengal",22.56775,88.34760
+West Bengal,2#,North 24 Pargana,2,"North 24 Pargana, West Bengal",22.93530,88.61297
